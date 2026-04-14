@@ -1,2 +1,2 @@
-:HL["/bergen-transport/_next/static/chunks/0vkjhh6kkchq-.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"SbwrUMxanag1_L8EyUVfb"}
+:HL["/bergen-transport/_next/static/chunks/0f7hpoy.zo171.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"J68ekfUUvTHPBGl7Goj6_"}
